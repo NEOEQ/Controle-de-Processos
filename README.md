@@ -4,7 +4,7 @@ Esta página contém os códigos do curso Controle de Processos (TEQ00102) do cu
 
 ## Sumário
 
-1. [Modelagem Dinâmica no Python](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/C%C3%B3pia_de_Gravity_Drained_Tank.ipynb)
+1. [Modelagem Dinâmica no Python](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
 2. 
 
 
