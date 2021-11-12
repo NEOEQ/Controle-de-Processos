@@ -1,8 +1,6 @@
 ## Códigos do Curso Controle de Processos
 
-You can use the [editor on GitHub](https://github.com/NEOEQ/Controle-de-Processos/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esta página contém os códigos do curso COntrole de Processos (TEQ00102) do curso de Engenharia Química da Universidade Federal Fluminense.
 
 ### Markdown
 
