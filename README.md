@@ -4,8 +4,19 @@ Esta página contém os códigos do curso Controle de Processos (TEQ00102) do cu
 
 ## Sumário
 
-1. [Modelagem Dinâmica no Python](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
-2. 
+1. Introdução ao Jupyter e Python.
+2. [Modelagem Dinâmica no Python: Tanque de Nivel](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
+3. [Modelagem Dinâmica Tanque de Mistura](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
+4. [Modelagem Dinâmica Reator CSTR](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
+5. [Modelagem Dinâmica Bioreator Semibatelada](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
+6. [Resposta ao degrau do tanque de nível]
+7. [Linearização de EDOs]
+8. [Linearização de Processos Multivariáveis]
+9. [Transformadas de Laplace]
+10. [Modelos de Primeira Ordem + Tempo Morto]
+11. [Modelos de Segunda Ordem]
+12. [Tanques Iterativos]
+13. 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
