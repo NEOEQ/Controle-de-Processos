@@ -1,28 +1,12 @@
 ## Códigos do Curso Controle de Processos
 
-Esta página contém os códigos do curso COntrole de Processos (TEQ00102) do curso de Engenharia Química da Universidade Federal Fluminense.
+Esta página contém os códigos do curso Controle de Processos (TEQ00102) do curso de Engenharia Química da Universidade Federal Fluminense. Os códigos são escritos na linguagem python e scilab (XCOS). 
 
-### Markdown
+## Sumário
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [Modelagem Dinâmica no Python]
+2. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
