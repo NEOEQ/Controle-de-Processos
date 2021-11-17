@@ -4,18 +4,13 @@ Esta página contém os códigos do curso Controle de Processos (TEQ00102) do cu
 
 ## Sumário
 
-1. Introdução ao Jupyter e Python.
-2. Modelagem Dinâmica
-
-    2.1. [Modelagem de um Tanque de Nivel](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
-    
-    2.2. [Modelagem de um Tanque de Mistura](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
-
-    2.3. [Modelagem de um Reator CSTR](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
-
-3. Transformadas de Laplace
-
-    3.1. [Introdução às Transformadas de Laplace](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
+#### 1. Introdução ao Jupyter e Python.
+#### 2. Modelagem Dinâmica 
+##### 2.1. [Modelagem de um Tanque de Nível](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
+##### 2.2. [Modelagem de um Tanque de Mistura](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
+##### 2.3. [Modelagem de um Reator CSTR](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
+#### 3. Transformadas de Laplace
+3.1. [Introdução às Transformadas de Laplace](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
     
     2.2. [Modelagem de um Tanque de Mistura](https://colab.research.google.com/github/NEOEQ/Controle-de-Processos/blob/main/1-Solucao%20de%20EDOs-(Tanque%20de%20N%C3%ADvel).ipynb)
 10. [Transformadas de Laplace]
